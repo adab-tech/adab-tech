@@ -2,7 +2,7 @@
 
 # Adamu Abubakar
 
-Ph.D. candidate at the University of Alabama.
+Ph.D. candidate at Alabama.
 
 I build African-language speech systems from a humanities foundation.
 
