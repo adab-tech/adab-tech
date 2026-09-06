@@ -14,7 +14,9 @@ I build African-language speech systems from a humanities foundation.
 
 ## Work with me
 
-Open to roles, fellowships, and collaborations in speech and language technology, computational linguistics, digital humanities, and multilingual NLP. The brief is language and speech from a humanities training, working with engineering. African-language systems are a core part of that work, not the limit of it. Universities, labs, industry, and research institutes.
+Roles, fellowships, consulting, collaborations. Speech and language — computational linguistics, digital humanities, multilingual NLP. Applied AI and software-engineering titles are in scope when that is how the team names the work.
+
+African-language speech is what I have shipped. It does not have to be the mandate of the lab or company.
 
 ---
 
