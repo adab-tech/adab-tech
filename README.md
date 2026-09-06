@@ -2,8 +2,9 @@
 
 # Adamu Abubakar
 
-**I build African-language speech systems from a humanities foundation**
-Ph.D. candidate, University of Alabama
+Ph.D. candidate at the University of Alabama.
+
+I build African-language speech systems from a humanities foundation.
 
 [**adamu.tech**](https://adamu.tech) · [**CV**](https://adamu.tech/cv) · [LinkedIn](https://www.linkedin.com/in/adamudanjuma/)
 
