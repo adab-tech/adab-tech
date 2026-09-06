@@ -14,11 +14,11 @@ I build African-language speech systems from a humanities foundation.
 
 ## Work with me
 
-On the job market for a **role, fellowship, consulting gig, or collaboration** in speech and language technology, computational linguistics, digital humanities, and multilingual NLP. African-language systems are a core strength — not a filter. Universities, labs, industry, and research institutes.
+Open to roles, fellowships, and collaborations in speech and language technology, computational linguistics, digital humanities, and multilingual NLP. African-language systems are a core part of that work, not the limit of it. Universities, labs, industry, and research institutes.
 
-I am not looking for a core software-engineering seat.
+The brief I fit is language and speech from a humanities training — I work with engineering; I am not a software-engineering hire.
 
-Message me on LinkedIn or through [adamu.tech](https://adamu.tech).
+[LinkedIn](https://www.linkedin.com/in/adamudanjuma/) or [adamu.tech](https://adamu.tech).
 
 ---
 
