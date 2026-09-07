@@ -6,7 +6,7 @@ Ph.D. candidate at Alabama.
 
 I build African-language speech systems from a humanities foundation.
 
-[**adamu.tech**](https://adamu.tech) · [**CV**](https://adamu.tech/cv) · [LinkedIn](https://www.linkedin.com/in/adamudanjuma/)
+[**adamu.tech**](https://adamu.tech) · [**CV**](https://adamu.tech/cv) · [LinkedIn](https://www.linkedin.com/in/adamudanjuma/) · [contact@adamu.tech](mailto:contact@adamu.tech)
 
 </div>
 
