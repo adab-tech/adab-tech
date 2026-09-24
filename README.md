@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Adamu Abubakar — African-language speech systems, built from a humanities foundation." src="assets/banner-light.svg" width="100%">
+  <img alt="Adamu Danjuma Abubakar — African-language speech systems, built from a humanities foundation." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
