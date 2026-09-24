@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://adamu.tech"><img alt="adamu.tech" src="https://img.shields.io/badge/adamu.tech-0B132B?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"></a>
-  <a href="https://adamu.tech/cv"><img alt="CV" src="https://img.shields.io/badge/CV-0B132B?style=for-the-badge&logo=readdotcv&logoColor=D4AF37"></a>
+  <a href="https://adamu.tech/cv"><img alt="CV" src="https://img.shields.io/badge/CV-0B132B?style=for-the-badge"></a>
   <a href="https://huggingface.co/adab-tech"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0B132B?style=for-the-badge&logo=huggingface&logoColor=D4AF37"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=08cPiU8AAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-0B132B?style=for-the-badge&logo=googlescholar&logoColor=D4AF37"></a>
   <a href="https://www.linkedin.com/in/adamudanjuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-  <a href="mailto:contact@adamu.tech"><img alt="contact@adamu.tech" src="https://img.shields.io/badge/contact@adamu.tech-D4AF37?style=for-the-badge&logo=maildotru&logoColor=0B132B"></a>
+  <a href="mailto:contact@adamu.tech"><img alt="contact@adamu.tech" src="https://img.shields.io/badge/contact@adamu.tech-D4AF37?style=for-the-badge"></a>
 </p>
 
 ## Work with me
