@@ -46,7 +46,7 @@ More weights and datasets: [huggingface.co/adab-tech](https://huggingface.co/ada
 
 ## Tools
 
-[Adamsy Free TV](https://github.com/adab-tech/adamsy-free-tv) (free-to-air TV client) · [Battery Life Helper](https://github.com/adab-tech/battery-life-helper) (Windows power profiles) · [Bama PickMe](https://github.com/adab-tech/bama-pickme) (campus donation and exchange app, Android)
+[Adamsy Free TV](https://github.com/adab-tech/adamsy-free-tv) (free-to-air TV client) · [Bama PickMe](https://github.com/adab-tech/bama-pickme) (campus donation and exchange app, Android)
 
 ---
 
