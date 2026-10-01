@@ -29,18 +29,18 @@ African-language speech is what I have shipped. It does not have to be the manda
       <sub><a href="https://huggingface.co/adab-tech/murya-piper-hausa-tts">TTS model</a> · 8 voices · Piper/ONNX on CPU · CC BY-NC-SA 4.0</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>DIGITAL HUMANITIES</sub><br>
-      <a href="https://adamu.tech/mapping/"><b>Mapping Voices</b></a><br>
-      Open atlas of oral-history and voice-testimony archives, filterable by country, theme, language and decade.<br>
-      <sub><a href="https://github.com/adab-tech/mapping">code</a> · MIT · dataset CC BY 4.0</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <sub>DATA</sub><br>
       <a href="https://huggingface.co/datasets/adab-tech/murya-hausa-en-lexicon-robinson1914"><b>Robinson Hausa–English lexicon</b></a><br>
       20,628 word/phrase pairs parsed from Robinson's 1914 dictionary.<br>
       <sub>Hugging Face dataset</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>DIGITAL HUMANITIES</sub><br>
+      <a href="https://adamu.tech/mapping/"><b>Mapping Voices</b></a><br>
+      Open atlas of oral-history and voice-testimony archives, filterable by country, theme, language and decade.<br>
+      <sub><a href="https://github.com/adab-tech/mapping">code</a> · MIT · dataset CC BY 4.0</sub>
     </td>
     <td width="50%" valign="top">
       <sub>PLATFORM</sub><br>
