@@ -36,7 +36,7 @@ Alongside speech systems research, I design and deploy applied AI platforms for 
 - **Format:** Parquet, Hugging Face Datasets API, automated validation pipelines
 
 ### 3. [Constellation: AI Rare Disease Atlas](https://rare-disease-atlas.lovable.app)
-- **Repository:** [`adab-tech/rare-disease-atlas`](https://github.com/adab-tech/rare-disease-atlas) · **Live:** [rare-disease-atlas.lovable.app](https://rare-disease-atlas.lovable.app)
+- **Repository:** [`adab-tech/rare-disease-atlas`](https://github.com/adab-tech/rare-disease-atlas-41a921d6) · **Live:** [rare-disease-atlas.lovable.app](https://rare-disease-atlas.lovable.app)
 - Evidence-grounded biomedical graph connecting orphan diseases, causal gene variants, HPO phenotypes, and clinical trials.
 - Features real-time clinical intake parsing, contradiction radar across competing scientific literature, and latent drug repurposing pathfinders.
 - **Stack:** TanStack Start, React 19, Tailwind CSS, shadcn/ui, D3 force simulation, Bright Data API
