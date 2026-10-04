@@ -1,70 +1,82 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Adamu Danjuma Abubakar — African-language speech systems, built from a humanities foundation." src="assets/banner-light.svg" width="100%">
-</picture>
+# Adamu Danjuma Abubakar
 
 <p align="center">
-  <a href="https://adamu.tech"><img alt="adamu.tech" src="https://img.shields.io/badge/adamu.tech-0B132B?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"></a>
-  <a href="https://adamu.tech/cv"><img alt="CV" src="https://img.shields.io/badge/CV-0B132B?style=for-the-badge"></a>
-  <a href="https://huggingface.co/adab-tech"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0B132B?style=for-the-badge&logo=huggingface&logoColor=D4AF37"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=08cPiU8AAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-0B132B?style=for-the-badge&logo=googlescholar&logoColor=D4AF37"></a>
-  <a href="https://www.linkedin.com/in/adamudanjuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"></a>
-  <a href="mailto:contact@adamu.tech"><img alt="contact@adamu.tech" src="https://img.shields.io/badge/contact@adamu.tech-D4AF37?style=for-the-badge"></a>
+  <b>Ph.D. Candidate at the University of Alabama · AI & Speech Systems Engineer</b><br>
+  <i>Building low-resource African-language speech systems and applied AI products from a computational linguistics foundation.</i>
 </p>
 
-## Work with me
+<p align="center">
+  <a href="https://adamu.tech"><img src="https://img.shields.io/badge/Portfolio-adamu.tech-0B132B?style=flat-square&logo=googlechrome&logoColor=D4AF37" alt="Portfolio"></a>
+  <a href="https://huggingface.co/adab-tech"><img src="https://img.shields.io/badge/HuggingFace-adab--tech-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=08cPiU8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"></a>
+  <a href="https://www.linkedin.com/in/adamudanjuma/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@adamu.tech"><img src="https://img.shields.io/badge/Email-contact%40adamu.tech-D4AF37?style=flat-square" alt="Email"></a>
+</p>
 
-Roles, fellowships, consulting, collaborations. Speech and language — computational linguistics, digital humanities, multilingual NLP. Applied AI and software-engineering titles are in scope when that is how the team names the work.
+---
 
-African-language speech is what I have shipped. It does not have to be the mandate of the lab or company.
+## 🎯 Executive Summary for Hiring Teams
 
-## Selected work
+I develop end-to-end speech and language systems, specializing in African languages where standardized datasets, phoneme inventories, and pre-trained foundation models are scarce. 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>SPEECH &amp; LANGUAGE</sub><br>
-      <a href="https://app.murya.ng"><b>Murya</b></a><br>
-      Hausa speech in the browser — speech, chat, translation, dictionary.<br>
-      <sub><a href="https://github.com/adab-tech/hausa-ai">code</a> · <a href="https://huggingface.co/adab-tech/murya-piper-hausa-tts">TTS model</a> · 8 voices · Piper/ONNX on CPU · CC BY-NC-SA 4.0</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>DATA</sub><br>
-      <a href="https://huggingface.co/datasets/adab-tech/murya-hausa-en-lexicon-robinson1914"><b>Robinson Hausa–English lexicon</b></a><br>
-      20,628 word/phrase pairs parsed from Robinson's 1914 dictionary.<br>
-      <sub>Hugging Face dataset</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>BIOMEDICAL AI</sub><br>
-      <a href="https://rare-disease-atlas.lovable.app"><b>Constellation: Rare Disease Atlas</b></a><br>
-      Graph intelligence mapping rare diseases, cross-disease drug repurposing, clinical intake, and scientific frontiers.<br>
-      <sub><a href="https://github.com/adab-tech/rare-disease-atlas">code</a> · 7th Global AI Hackathon</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>DIGITAL HUMANITIES</sub><br>
-      <a href="https://adamu.tech/mapping/"><b>Mapping Voices</b></a><br>
-      Open atlas of oral-history and voice-testimony archives, filterable by country, theme, language and decade.<br>
-      <sub><a href="https://github.com/adab-tech/mapping">code</a> · MIT · dataset CC BY 4.0</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>PLATFORM</sub><br>
-      <a href="https://globalopportunities.app"><b>Global Opportunities</b></a><br>
-      Scholarships, fellowships, grants and jobs with plain-English summaries, refreshed automatically.<br>
-      <sub><a href="https://github.com/adab-tech/globalopportunities">code</a> · FastAPI · Postgres · Cloudflare Workers</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>COMMUNITY &amp; ARTS</sub><br>
-      <a href="https://imodoye.ng"><b>Imodoye</b></a><br>
-      Writers' residency platform supporting fellows, cohorts, and the Imodoye Review.<br>
-      <sub><a href="https://github.com/adab-tech/imodoye-web">code</a> · Next.js · Supabase</sub>
-    </td>
-  </tr>
-</table>
+My work spans the full machine learning engineering lifecycle: from field corpus collection and phonetic lexicon parsing to neural acoustic modeling, ONNX CPU optimization for resource-constrained browsers, and production web deployment.
 
-**Also built:** [Imodoye](https://imodoye.ng) (writers' residency platform) · [adab.ng](https://adab.ng) (real-estate site with lister and tenant portals) · [Bama PickMe](https://github.com/adab-tech/bama-pickme) (campus donation and exchange app, Android) · [Adamsy Free TV](https://github.com/adab-tech/adamsy-free-tv) (free-to-air TV client)
+* **Primary Focus**: Speech Synthesis (TTS), Automatic Speech Recognition (ASR), Low-Resource NLP, Applied Knowledge Graphs.
+* **Core Philosophy**: Grounding production AI in verifiable data, humane domain modeling, and robust client-side performance.
+* **Availability**: Open to roles in AI Engineering, Speech & Multilingual NLP Research, and Applied Machine Learning.
 
-<p align="center"><sub><code>/a/</code> · <a href="https://adamu.tech">adamu.tech</a></sub></p>
+---
+
+## 🚀 Flagship Shipped Systems
+
+### 1. [Murya](https://murya.ng) — African-Language Neural Speech System
+* **Live App**: [murya.ng](https://murya.ng) · **Repository**: [`adab-tech/hausa-ai`](https://github.com/adab-tech/hausa-ai)
+* **Open Weights**: [Hugging Face (`murya-piper-hausa-tts`)](https://huggingface.co/adab-tech/murya-piper-hausa-tts)
+* In-browser neural Hausa text-to-speech, translation, and interactive chat supporting 8 custom voices.
+* Optimized via Piper and ONNX runtime to execute on client-side CPUs with zero GPU dependencies, making speech synthesis accessible over low-bandwidth mobile networks across West Africa.
+
+### 2. [Robinson Hausa–English Lexical Dataset](https://huggingface.co/datasets/adab-tech/murya-hausa-en-lexicon-robinson1914)
+* **Dataset**: [Hugging Face Dataset Repo](https://huggingface.co/datasets/adab-tech/murya-hausa-en-lexicon-robinson1914)
+* Curated and structured 20,628 lexical pairs parsed from Charles Henry Robinson’s historical 1914 dictionary.
+* Serves as a foundational reference corpus for historical linguistics, G2P (grapheme-to-phoneme) alignment, and modern Hausa language modeling.
+
+### 3. [Constellation: AI Rare Disease Atlas](https://rare-disease-atlas.lovable.app)
+* **Live App**: [rare-disease-atlas.lovable.app](https://rare-disease-atlas.lovable.app) · **Repository**: [`adab-tech/rare-disease-atlas`](https://github.com/adab-tech/rare-disease-atlas)
+* Built for the 7th Global AI Hackathon (Challenge 05).
+* Interactive biomedical knowledge graph unifying 7,000+ rare diseases with Orphanet/OMIM ontology mapping, client-side clinical note phenotype extraction (HPO), cross-disease latent drug repurposing, and automated research dossiers.
+
+### 4. [Mapping Voices](https://adamu.tech/mapping/) — Oral History & Voice Testimony Atlas
+* **Live Portal**: [adamu.tech/mapping](https://adamu.tech/mapping/) · **Repository**: [`adab-tech/mapping`](https://github.com/adab-tech/mapping)
+* Interactive geospatial index structuring global voice archives across languages, decades, and historical themes.
+
+### 5. [Global Opportunities](https://globalopportunities.app)
+* **Live Portal**: [globalopportunities.app](https://globalopportunities.app) · **Repository**: [`adab-tech/globalopportunities`](https://github.com/adab-tech/globalopportunities)
+* Automated pipeline scraping, standardizing, and synthesizing international fellowships, scholarships, and grants with plain-language briefs.
+
+---
+
+## 🛠️ Technical Competencies
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Speech & Multilingual NLP** | PyTorch, Piper TTS, ONNX Runtime, Epitran (G2P), Whisper, Silero VAD, Hugging Face Transformers |
+| **Backend & Distributed Systems** | Python (FastAPI, Uvicorn), PostgreSQL, Node.js, Cloudflare Workers, Docker, Redis |
+| **Frontend & Visualization** | TypeScript, React, Next.js, TanStack Router/Start, Tailwind CSS, D3.js, Leaflet |
+| **Evaluation & Data Engineering** | BeautifulSoup, Pandas, Automated Link Verification, FAIR Data Principles, Biomedical Ontologies (HPO, MONDO) |
+
+---
+
+## 🔬 Research & Academic Background
+
+* **Ph.D. Candidate**, University of Alabama (Tuscaloosa, AL).
+* Research at the intersection of African oral histories, digital humanities, and natural language processing.
+* Author profile and publications indexed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=08cPiU8AAAAJ).
+
+---
+
+## 📬 Contact & Collaboration
+
+* **Portfolio & Writing**: [adamu.tech](https://adamu.tech)
+* **Email**: [contact@adamu.tech](mailto:contact@adamu.tech)
+* **GitHub**: [github.com/adab-tech](https://github.com/adab-tech)
+* **LinkedIn**: [linkedin.com/in/adamudanjuma](https://www.linkedin.com/in/adamudanjuma/)
