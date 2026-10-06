@@ -25,6 +25,7 @@ Alongside speech systems research, I design and deploy applied AI platforms for 
 ### 1. [Murya](https://murya.ng) — African-Language Neural Speech System
 - **Repository:** [`adab-tech/hausa-ai`](https://github.com/adab-tech/hausa-ai) · **Live:** [murya.ng](https://murya.ng)
 - **Role:** Creator & Lead Engineer
+- **Model:** 8 speakers, 22,050 Hz ONNX ([`adab-tech/murya-piper-hausa-tts`](https://huggingface.co/adab-tech/murya-piper-hausa-tts)). Weights are CC BY-NC-SA 4.0. The application code is MIT. The demo names two of the eight voices, Malama Asabe and Malam Garba.
 - The first production-grade neural text-to-speech platform specifically engineered for Hausa and low-resource Chadic languages.
 - Features end-to-end acoustic modeling, custom tone and vowel-length normalization, studio voice cloning, and low-latency client synthesis.
 - **Stack:** PyTorch, FastAPI, Hugging Face, Next.js, Web Audio API, Docker
